@@ -7,5 +7,5 @@
 <h1>文献查找</h1>
 <h2>opencv原理学习</h2>
 <h2>pyqt5学习</h2>
-<img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" alt="Big Boat"width="400" height="500">
+<img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" >
 
