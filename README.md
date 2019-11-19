@@ -1,20 +1,11 @@
 ﻿# yinxin46.github.io
-###这是我们的小组
-
-我啥都不知道 
-
-我可以做到什么呢
-
-我就是个混子啊
-
-我真的不知道应该怎么办啊
-
-我人都傻掉了，在20点29分
-
-我需要力量
-
-
-
 <a href="https://github.com/yinxin46/yinxin46.github.io">个人主页</a>
-
+<h1>选题原因</h1>
+<h2>人员安排</h2>
+<h2>实现步骤</h2>
+<h2>收集材料</h2>
+<h1>文献查找</h1>
+<h2>opencv原理学习</h2>
+<h2>pyqt5学习</h2>
+<img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" alt="Big Boat"width="400" height="500">
 
