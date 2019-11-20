@@ -35,6 +35,7 @@
 </p>
 <h3>GUI设计</h3>
 <h3>进度展示</h3>
-<img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" width="400" height="200"/>
+<p>Opencv处理图像时的效果<img src="http://chuantu.xyz/t6/703/1574260340x1033347913.png" width="400" height="200"/>
+</p>
 </body>
 </html>
