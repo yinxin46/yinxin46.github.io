@@ -12,7 +12,7 @@
 <h2>3.收集材料</h2>
 <h1>二、文献查找</h1>
 <h2>1.opencv原理学习</h2>
-<h2>2.pyqt5学习</h2>
+<h2>2.pyqt5学习。</h2>
 <h2>3.网页设计学习</h2>
 <img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" >
 <h1>三、实现步骤</h1>
