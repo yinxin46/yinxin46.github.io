@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
 <meta charset="utf-8">
-<title>宿舍异常进入识别监控(https://yinxin46.github.io/)</title>
+<title>宿舍异常进入识别监控</title>
 </head>
 <body>
 <a href="https://github.com/yinxin46/yinxin46.github.io">个人主页</a>
