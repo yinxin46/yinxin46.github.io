@@ -7,7 +7,7 @@
 <a href="https://github.com/yinxin46/yinxin46.github.io">个人主页</a>
 <h2>一、前期准备</h2>
 <h3>1.选题原因</h3>
-<p>觉得好玩</p>
+<p>&nbsp;&nbsp;觉得好玩吧</p>
 <h3>2.选题要求</h3>
 <ul>
 <li>用PYTHON实现，设计对应GUI</li>
