@@ -7,14 +7,14 @@
 <a href="https://github.com/yinxin46/yinxin46.github.io">个人主页</a>
 <h2>一、前期准备</h2>
 <h3>1.选题原因</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;觉得好玩吧</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;当初认为这个很有趣</p>
 <h3>2.选题要求</h3>
-<ul>
+<ol>
 <li>用PYTHON实现，设计对应GUI</li>
 <li>拍摄一段视频，根据视频，识别是否有人进入宿舍</li>
 <li>一旦有人进入宿舍，立刻在画面中显示报警信息</li>
 <li>如果没有人进入宿舍，则一直保持监控状态</li>
-</ul>
+</ol>
 <h3>3.收集材料</h3>
 <h2>二、文献查找</h2>
 <h3>1.opencv原理学习</h3>
