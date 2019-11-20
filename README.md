@@ -30,8 +30,8 @@
 <h3>图像处理</h3>
 <p>
 &nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/6.py">实现代码</a><br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/6.py">数据库1</a><br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/6.py">数据库2</a><br>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/NO1.py">数据库1</a><br>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/NO2.py">数据库2</a><br>
 </p>
 <h3>GUI设计</h3>
 <h3>进度展示</h3>
