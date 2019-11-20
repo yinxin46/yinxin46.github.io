@@ -28,8 +28,13 @@
 </p>
 <h2>实现步骤</h2>
 <h3>图像处理</h3>
+<p>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/6.py">实现代码</a><br>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/6.py">数据库1</a><br>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/6.py">数据库2</a><br>
+</p>
 <h3>GUI设计</h3>
-<h3>页面设计</h3>
+<h3>进度展示</h3>
 <img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" width="400" height="200"/>
 </body>
 </html>
