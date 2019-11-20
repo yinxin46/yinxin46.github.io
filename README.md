@@ -17,8 +17,7 @@
 </p>
 <h3>3.人员分工</h3>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;组长：凌笑彬 装软件<br>&nbsp;&nbsp;&nbsp;&nbsp;组员：严智炜 图像识别处理以及GUI设计<br>&nbsp;&nbsp;&nbsp;&nbsp;组员：贾云 页面设计和定时上传
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;组长：凌笑彬 GUI设计<br>&nbsp;&nbsp;&nbsp;&nbsp;组员：严智炜 图像识别处理<br>&nbsp;&nbsp;&nbsp;&nbsp;组员：贾云 页面制作和上传
 <h2>资料查找</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;1.<a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">Opencv的学习</a><br>
