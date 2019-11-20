@@ -1,5 +1,4 @@
-﻿<!DOCTYPE html>
-<html>
+﻿<html>
 <head>
 <meta charset="utf-8">
 <title>宿舍异常进入识别监控(https://yinxin46.github.io/)</title>
@@ -16,5 +15,8 @@
 <h2>3.网页设计学习</h2>
 <img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" >
 <h1>三、实现步骤</h1>
+<h2>图像处理</h2>
+<h2>GUI设计</h2>
+<h2>页面设计</h2>
 </body>
 </html>
