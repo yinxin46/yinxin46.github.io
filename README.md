@@ -24,6 +24,6 @@
 <h3>图像处理</h3>
 <h3>GUI设计</h3>
 <h3>页面设计</h3>
-<img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg"width="400" height="50"/>
+<img src="https://image.shutterstock.com/image-photo/hands-touching-science-network-connection-260nw-762804589.jpg" width="400" height="50"/>
 </body>
 </html>
