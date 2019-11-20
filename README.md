@@ -21,9 +21,9 @@
 </p>
 <h2>文献查找</h2>
 <p>
-<li><a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">Opencv和python的学习</a></li>
-<li><a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">pyqt5学习</a></li>
-<li><a href="https://www.runoob.com/html/html-tutorial.html">网页设计学习</a></li>
+&nbsp;&nbsp;&nbsp;&nbsp;1.<a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">Opencv和python的学习</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.<a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">pyqt5学习</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.<a href="https://www.runoob.com/html/html-tutorial.html">网页设计学习</a><br>
 </p>
 <h2>实现步骤</h2>
 <h3>图像处理</h3>
