@@ -19,11 +19,12 @@
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;组长：凌笑彬 装软件<br>&nbsp;&nbsp;&nbsp;&nbsp;组员：严智炜 图像识别处理<br>&nbsp;&nbsp;&nbsp;&nbsp;组员：贾云 页面设计
 </p>
-<h2>文献查找</h2>
+<h2>资料查找</h2>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;1.<a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">Opencv和python的学习</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;2.<a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">pyqt5学习</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;3.<a href="https://www.runoob.com/html/html-tutorial.html">网页设计学习</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.<a href="https://www.bilibili.com/video/av24998616?from=search&seid=2838665333098568074">Opencv的学习</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.<a href="https://wiki.python.org/moin/BeginnersGuide/Programmers">Python的学习</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.<a href="https://www.bilibili.com/video/av54310770?from=search&seid=13270891506334785159">PYQT5学习</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;4.<a href="https://www.runoob.com/html/html-tutorial.html">网页设计学习</a><br>
 </p>
 <h2>实现步骤</h2>
 <h3>图像处理</h3>
