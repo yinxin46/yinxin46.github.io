@@ -1,4 +1,4 @@
-﻿<html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>宿舍异常进入识别监控</title>
@@ -7,7 +7,8 @@
 <a href="https://github.com/yinxin46/yinxin46.github.io">个人主页</a>
 <h2>前期准备</h2>
 <h3>1.选题原因</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;当初认为这个很有趣</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;人脸识别技术在目前社会上是一种高精度、高稳定性、使用方便而且难以模仿的生物识别技术。随着社会的发展，人脸识别技术在社会中越来越广泛，造福着社会</p><br>
+我们小组选择这个课题主要是因为人脸识别比较火，另外就是我们都对其有着兴趣。<br>
 <h3>2.选题要求</h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;用PYTHON实现，设计对应GUI<br>
@@ -28,18 +29,11 @@
 <h2>成果汇报</h2>
 <h3>图像处理</h3>
 <p>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/6.py">实现代码</a><br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/NO1.py">数据库1</a><br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/NO2.py">数据库2</a><br>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/test%2075%20percent.py">实现代码</a><br>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/haarcascade_frontalface_default.xml">数据库1</a><br>
 </p>
 <h3>GUI设计</h3>
-<p>两个需要合着用<br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/x.py">GUI代码1</a><br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/runing.py">GUI代码2</a><br>
+<p><br>
+&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/interface.pyGui.py">GUI代码</a><br>
 </p>
-<h3>进度展示</h3>
-<p>Opencv处理图像时的效果<img src="http://chuantu.xyz/t6/703/1574260340x1033347913.png"><br>
-GUI界面<img src="http://chuantu.xyz/t6/703/1574262964x1709417261.png"><br>
-</p>
-</body>
-</html>
+<html>
