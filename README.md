@@ -29,11 +29,11 @@
 <h2>成果汇报</h2>
 <h3>图像处理</h3>
 <p>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/test%2075%20percent.py">实现代码</a><br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/haarcascade_frontalface_default.xml">数据库1</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/test%2075%20percent.py">实现代码</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/haarcascade_frontalface_default.xml">数据库1</a><br>
 </p>
 <h3>GUI设计</h3>
 <p><br>
-&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/interface.pyGui.py">GUI代码</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/yinxin46/yinxin46.github.io/blob/master/interface.pyGui.py">GUI代码</a><br>
 </p>
 <html>
